@@ -7,6 +7,9 @@ We are currently experimenting with a agent workflow tools: **LangChain** (speci
 - [CrewAI](https://docs.crewai.com/)
 - [AutoGen](https://microsoft.github.io/autogen/)
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+- [OpenAI Agents SDK](https://platform.openai.com/docs/guides/agents)
+
+This is not intended to be a complete or exhaustive guide. There is a lot happening in the Agentic AI space, with many powerful tools and evolving best practices. What we present here is just a starting point. There’s much more to explore beyond this intro — including topics like memory management, human-in-the-loop, and Model Context Protocol (MCPs)
 
 ## Learning Flow
 
@@ -45,3 +48,11 @@ In the exercise, we create a [**task management agent**](./intro-langgraph-4.ipy
 We give the agent a set of tools and let it decide what actions to take based on the user's intent. 
 
 Happy experimenting!
+
+### 4. Additional resources:
+
+https://www.cohorte.co/blog/unleashing-the-power-of-langgraph-an-introduction-to-the-future-of-ai-workflows
+https://www.ionio.ai/blog/a-comprehensive-guide-about-langgraph-code-included
+https://anderfernandez.com/en/blog/agent-systems-with-langgraph/
+
+
