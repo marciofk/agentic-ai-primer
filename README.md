@@ -39,7 +39,7 @@ To be able to run the examples, you should:
 
 ### 3. Exercise – Trello Task Manager Agent
 
-In the exercise, we create a [**task management agent**](./intro-langgraph-4.ipynb) that can:
+In the exercise, we create a [**task management agent**](./intro-langgraph-4-base.ipynb) that can:
 
 - View tasks from a Trello board
 - Add new tasks
