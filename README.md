@@ -28,6 +28,7 @@ Through basic, hands-on examples, we explore how to:
 
 To be able to run the examples, you should:
 - clone this repository
+- add the required keys in the `.env` file.
 - create a virtual environment (e.g `python -m venv env`)
 - activate the virtual environment using the `activate` script
 - install the packages present in the requirements file (e.g. `pip install -r requirements.txt`)
